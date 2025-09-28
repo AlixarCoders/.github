@@ -1,7 +1,7 @@
 # 🌐 AlixarCoders — Comunidad de Desarrolladores Web del [I.E.S. ALIXAR](https://iesalixar.org)
 
-![Logo](assets/images/logo/logo.svg)
-![Unicornio](assets/images/logo/unicornio.png)
+![Logo](images/logo/logo.svg)
+![Unicornio](images/logo/unicornio.png)
 
 Bienvenido al repositorio oficial de **AlixarCoders**, la comunidad de Desarrolladores Web del **I.E.S. ALIXAR**. 
 Este proyecto reúne recursos, proyectos y buenas prácticas para aprender, construir y desplegar aplicaciones web de calidad.
